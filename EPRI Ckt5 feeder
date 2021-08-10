@@ -1,1 +1,5 @@
-
+The is a file describes the locations and other settings of the DERs that connected to EPRI Ckt5 feeder.
+Number of DERs = 6;
+Location of DERs = [28265.c, 859.c, 39614.a, 62298.b, 39776.c, 63714.a]; % The name is identical to the EPRI Ckt5 feeder nodes.
+The both active and reactive powers of DERs are dispatchable.
+The upper and lower bound of each DERs is [5e4, -5e4] W or Var.
