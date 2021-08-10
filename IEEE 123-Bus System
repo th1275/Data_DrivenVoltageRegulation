@@ -2,4 +2,4 @@ The is a file describes the locations and other settings of the DERs that connec
 Number of DERs = 9;
 Location of DERs = [13.a, 13.b, 13.c, 22.b, 48.b, 56.a, 56.c, 300.c]; % The name is identical to the orginal IEEE 123-bus system nodes.
 The both active and reactive powers of DERs are dispatchable.
-The upper and lower bound of each DERs is [2e5, -2e5] W.
+The upper and lower bound of each DERs is [2e5, -2e5] W or Var.
